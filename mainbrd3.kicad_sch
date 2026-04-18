@@ -1,14 +1,127 @@
 (kicad_sch
-	(version 20260306)
+	(version 20231120)
 	(generator "eeschema")
-	(generator_version "10.0")
-	(uuid 13d739cf-8b96-44d5-ad45-a31607f8ea2f)
-	(paper "A4")
+	(generator_version "8.0")
+	(uuid "89e0f049-91ab-4c37-b514-d5ee0e775d39")
+	(paper "A3")
 	(lib_symbols)
+	(sheet
+		(at 38.1 30.48)
+		(size 63.5 80.01)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a91110a-5d39-48c9-af7e-bae13d852cb2")
+		(property "Sheetname" "MCU"
+			(at 38.1 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 38.1 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainbrd1"
+				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 33.02)
+		(size 59.69 78.74)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "afded586-e9ca-4800-b965-8fdeba2554d0")
+		(property "Sheetname" "sheet 3"
+			(at 187.96 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet3.kicad_sch"
+			(at 187.96 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainbrd1"
+				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 30.48)
+		(size 66.04 80.01)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fa672b14-329a-4bb7-a909-5b1dde7a1a04")
+		(property "Sheetname" "ETH"
+			(at 114.3 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ETH.kicad_sch"
+			(at 114.3 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainbrd1"
+				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
 		)
 	)
-	(embedded_fonts no)
 )
