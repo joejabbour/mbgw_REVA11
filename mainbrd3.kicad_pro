@@ -689,7 +689,24 @@
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "89e0f049-91ab-4c37-b514-d5ee0e775d39",
+      "Root"
+    ],
+    [
+      "5a91110a-5d39-48c9-af7e-bae13d852cb2",
+      "MCU"
+    ],
+    [
+      "fa672b14-329a-4bb7-a909-5b1dde7a1a04",
+      "ETH"
+    ],
+    [
+      "afded586-e9ca-4800-b965-8fdeba2554d0",
+      "rs485"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
