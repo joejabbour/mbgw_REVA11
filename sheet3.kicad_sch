@@ -2806,8 +2806,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 163.83 45.72 0)
-		(mirror x)
+		(at 163.83 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2817,7 +2816,7 @@
 		(dnp yes)
 		(uuid "451939d7-8d15-4a28-a7b8-6ccf827baaf9")
 		(property "Reference" "J7"
-			(at 166.37 45.7201 0)
+			(at 166.37 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2828,7 +2827,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 166.37 43.1801 0)
+			(at 166.37 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2839,7 +2838,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 163.83 45.72 0)
+			(at 163.83 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2850,7 +2849,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 45.72 0)
+			(at 163.83 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2861,7 +2860,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 163.83 45.72 0)
+			(at 163.83 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3902,8 +3901,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 163.83 99.06 0)
-		(mirror x)
+		(at 163.83 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3913,7 +3911,7 @@
 		(dnp yes)
 		(uuid "9b58ba11-513a-4a14-b06c-e08f3cf17b5d")
 		(property "Reference" "J8"
-			(at 166.37 99.0601 0)
+			(at 166.37 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3924,7 +3922,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 166.37 96.5201 0)
+			(at 166.37 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3935,7 +3933,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 163.83 99.06 0)
+			(at 163.83 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3946,7 +3944,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 99.06 0)
+			(at 163.83 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3957,7 +3955,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 163.83 99.06 0)
+			(at 163.83 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
