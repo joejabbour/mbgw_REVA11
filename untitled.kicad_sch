@@ -2718,174 +2718,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MBR0580_1"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D2"
-				(at 0.9526 -2.54 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Value" "MBR0580"
-				(at -1.5874 -2.54 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SOD-123"
-				(at 0 -4.445 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "80V 0.5A Schottky Power Rectifier Diode, SOD-123"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "D*SOD?123*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "MBR0580_1_0_1"
-				(polyline
-					(pts
-						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "MBR0580_1_1_1"
-				(pin power_out line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "MCU_ST_STM32F7:STM32F767ZITx"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -7527,145 +7359,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+3.3V"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "+3.3V"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+3.3V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+3.3V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3.3VADC"
 			(power global)
 			(pin_numbers
@@ -8578,12 +8271,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e24bb5a-e4f4-4415-af0a-7846f6576e2f")
-	)
-	(junction
-		(at 289.56 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45b120cb-0160-488b-9915-cd2526acc9c0")
 	)
 	(junction
 		(at 377.19 109.22)
@@ -9905,16 +9592,6 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 74.93) (xy 289.56 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5799df78-f64e-4a22-84ad-46221c5fe6d4")
-	)
-	(wire
-		(pts
 			(xy 144.78 55.88) (xy 147.32 55.88)
 		)
 		(stroke
@@ -10035,16 +9712,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 109.22) (xy 289.56 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68a2ea31-1bc8-4553-a6d8-7d7fa4b9976d")
-	)
-	(wire
-		(pts
 			(xy 147.32 55.88) (xy 147.32 58.42)
 		)
 		(stroke
@@ -10132,16 +9799,6 @@
 			(type default)
 		)
 		(uuid "711a057c-0257-44d4-9ed9-d8903d24731c")
-	)
-	(wire
-		(pts
-			(xy 289.56 101.6) (xy 289.56 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71428284-210f-4a76-b3c8-dcb7ff2b6523")
 	)
 	(wire
 		(pts
@@ -10235,7 +9892,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 109.22) (xy 295.91 109.22)
+			(xy 274.32 109.22) (xy 295.91 109.22)
 		)
 		(stroke
 			(width 0)
@@ -10552,16 +10209,6 @@
 			(type default)
 		)
 		(uuid "a6ed29fb-270b-40e9-984c-26191d70f8d1")
-	)
-	(wire
-		(pts
-			(xy 289.56 86.36) (xy 289.56 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a70cc52f-969a-4a96-a3f4-7d7fae1c5033")
 	)
 	(wire
 		(pts
@@ -13943,83 +13590,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 289.56 74.93 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2a43308f-1988-45ed-a385-b0a5316f09af")
-		(property "Reference" "#PWR055"
-			(at 289.56 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+V_POE"
-			(at 290.83 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 289.56 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3cd2ed2e-be2f-49bd-8a2c-b1356c1db7dc")
-		)
-		(instances
-			(project "mainbrd3"
-				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
-					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 299.72 218.44 0)
 		(unit 1)
@@ -14990,100 +14560,6 @@
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
 					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "MBR0580_1")
-		(lib_id "Diode:MBR0580")
-		(at 289.56 97.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4be4d034-3041-4fc3-b723-41f023a0c782")
-		(property "Reference" "D2"
-			(at 292.1 96.8374 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "MBR0580"
-			(at 292.1 99.3774 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 294.005 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201242300_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--MBR0580_C77339.pdf"
-			(at 289.56 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "MBR0580"
-			(at 289.56 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB PN" "C77339"
-			(at 289.56 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e9701087-1be3-4124-8b5a-1b6d00709c6f")
-		)
-		(pin "1"
-			(uuid "a49c5b6a-d071-47ab-8dea-8b83722bff23")
-		)
-		(instances
-			(project "mainbrd3"
-				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
-					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -21796,99 +21272,6 @@
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
 					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Fuse")
-		(at 289.56 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "faa04236-bd9b-4873-9d2b-ac39194f6cfc")
-		(property "Reference" "F2"
-			(at 292.1 81.2799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Fuse"
-			(at 292.1 83.8199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
-			(at 287.782 82.55 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403081022_RUILON-Shenzhen-Ruilongyuan-Elec-SMD1206P010TF_C20981.pdf"
-			(at 289.56 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "SMD1206P010TF"
-			(at 289.56 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB PN" "C20981"
-			(at 289.56 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "98631d31-6e71-468a-8d6e-569b1ee86764")
-		)
-		(pin "2"
-			(uuid "66c1fe2b-c83e-4a3a-bf8a-d802c77bc962")
-		)
-		(instances
-			(project "mainbrd3"
-				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
-					(reference "F2")
 					(unit 1)
 				)
 			)
