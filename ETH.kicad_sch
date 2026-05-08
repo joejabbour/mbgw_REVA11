@@ -8490,7 +8490,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d81727c-c860-4edb-be5f-d3322da91caa")
 		(property "Reference" "J5"
@@ -12179,7 +12179,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f4162720-c079-43b6-b03e-5b590ea7a379")
 		(property "Reference" "U4"
 			(at 189.23 90.17 0)

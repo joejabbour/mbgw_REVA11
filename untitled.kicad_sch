@@ -8729,10 +8729,6 @@
 		(uuid "86e2955b-3806-49a1-bc4b-efe17ed366f0")
 	)
 	(no_connect
-		(at 382.27 52.07)
-		(uuid "8841f1fa-9777-40a9-8fe4-ecb06ffaf6c7")
-	)
-	(no_connect
 		(at 111.76 182.88)
 		(uuid "8942bad9-7649-40f4-ba4b-4981d1f86e0c")
 	)
@@ -8919,6 +8915,16 @@
 	(no_connect
 		(at 172.72 208.28)
 		(uuid "febeefb6-f78e-435e-b953-d3e5d50c1e12")
+	)
+	(wire
+		(pts
+			(xy 382.27 45.72) (xy 384.81 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00a06a0b-a3aa-4c4d-bf80-d2cd8c6e21d2")
 	)
 	(wire
 		(pts
@@ -10502,6 +10508,16 @@
 	)
 	(wire
 		(pts
+			(xy 382.27 45.72) (xy 382.27 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c664e227-7765-4d92-84f2-d63f08f5d82a")
+	)
+	(wire
+		(pts
 			(xy 172.72 200.66) (xy 189.23 200.66)
 		)
 		(stroke
@@ -11903,6 +11919,30 @@
 		(uuid "9076985a-0bbe-467a-9b91-34c6a280b48e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 202.2541 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "Earth"
+		(shape input)
+		(at 384.81 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "97531053-38db-4936-ae41-c65d15ff0585")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 392.7541 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15157,7 +15197,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63687670-4398-4efb-b261-773b39ce0628")
 		(property "Reference" "U2"
@@ -18270,7 +18310,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a61a9f40-5915-413e-97b5-55032655c5d0")
 		(property "Reference" "J2"

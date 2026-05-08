@@ -8377,7 +8377,7 @@
 				(pins "6" "5" "1" "3" "2" "4")
 			)
 		)
-		(attr smd dnp)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 4.15 3.3)
@@ -8772,7 +8772,6 @@
 			(property pad_prop_mechanical)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Earth")
 			(uuid "922c79d4-c111-46a1-825d-d9e8e2676615")
 		)
 		(pad "SH" thru_hole oval
@@ -8800,7 +8799,6 @@
 			(property pad_prop_mechanical)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Earth")
 			(uuid "b89551fa-0433-42b5-9e18-eb0a449173e0")
 		)
 		(embedded_fonts no)
@@ -13409,7 +13407,7 @@
 				(pins "1" "4" "2" "3" "5" "6" "9" "10" "7" "SH" "8" "13" "14" "11" "12")
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 13.96 7.51)
@@ -16510,7 +16508,7 @@
 				(pins "2" "3" "6" "7" "9" "11" "1" "10" "5" "8" "4")
 			)
 		)
-		(attr smd dnp)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.11 1.61)
@@ -21050,7 +21048,7 @@
 				(pins "1" "3" "4" "6" "5" "2")
 			)
 		)
-		(attr smd dnp)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.91 1.56)
@@ -29207,14 +29205,6 @@
 		(layer "F.Cu")
 		(net "NRST")
 		(uuid "128e239c-d134-49d2-8b77-7e02e7c1c692")
-	)
-	(segment
-		(start 199.7 102.2)
-		(end 199.8 102.1)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "NRST")
-		(uuid "2c1f0527-cc52-471b-a617-59a1962184c6")
 	)
 	(segment
 		(start 198.1 89.1)
