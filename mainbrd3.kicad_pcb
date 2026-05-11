@@ -1439,7 +1439,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at 0 -1.16 0)
+			(at -0.1 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "1af7f0e4-6875-4a92-be7f-f24a4dcadd4d")
 			(effects
@@ -20575,7 +20575,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R21"
-			(at -2.49 2.3 0)
+			(at -2.59 2.4 0)
 			(layer "B.SilkS")
 			(uuid "1e8d7bc1-a446-461a-917c-3ffeb79fc5d0")
 			(effects
@@ -21715,7 +21715,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R14"
-			(at -3.21 -0.9 90)
+			(at -3.21 -1 90)
 			(layer "B.SilkS")
 			(uuid "bd7780cc-bc01-4c60-8d5e-d9641fa7250b")
 			(effects
@@ -22962,7 +22962,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R22"
-			(at 0 1.4 0)
+			(at 0 1.6 0)
 			(layer "B.SilkS")
 			(uuid "4f29812d-ad9e-4da9-8326-e5bf3bb486a6")
 			(effects
@@ -23674,7 +23674,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R20"
-			(at -2.51 1.9 0)
+			(at -2.61 1.9 0)
 			(layer "B.SilkS")
 			(uuid "d7029c26-e976-477d-8815-8b994a05c65d")
 			(effects
@@ -23852,7 +23852,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 1.16 180)
+			(at 0 1.5 180)
 			(layer "B.SilkS")
 			(uuid "425025fb-c5f7-46a2-a2fd-8b83bc9408b6")
 			(effects
@@ -24208,7 +24208,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R15"
-			(at -3.11 -1.1 90)
+			(at -3.21 -1.4 90)
 			(layer "B.SilkS")
 			(uuid "4868c767-1b82-42c0-858e-d363cc0ad707")
 			(effects
@@ -34375,36 +34375,14 @@
 			(clearance 0.2)
 		)
 		(min_thickness 0.2)
-		(fill yes
+		(fill
 			(thermal_gap 0)
 			(thermal_bridge_width 0.2)
 			(island_removal_mode 0)
 		)
 		(polygon
 			(pts
-				(xy 128.5 73.8) (xy 128.529907 73.837384) (xy 128.597537 78.529407) (xy 123.7 78.6) (xy 123.7 73.8)
-				(xy 124 73.8)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 127.515908 73.804843) (xy 127.528595 73.808966) (xy 127.578095 73.844927) (xy 127.578096 73.844928)
-				(xy 127.581091 73.84905) (xy 127.6 73.90724) (xy 127.597082 73.91622) (xy 127.599885 74.399722)
-				(xy 127.599999 74.399997) (xy 127.6 74.399998) (xy 127.6 74.399999) (xy 127.600001 74.4) (xy 127.98532 74.4)
-				(xy 128.015914 74.404846) (xy 128.022069 74.406846) (xy 128.071569 74.442811) (xy 128.090475 74.501002)
-				(xy 128.087442 74.510335) (xy 128.129593 74.510335) (xy 128.179093 74.546299) (xy 128.179095 74.546303)
-				(xy 128.181095 74.549056) (xy 128.2 74.607243) (xy 128.2 75.249999) (xy 128.200001 75.25) (xy 128.437004 75.25)
-				(xy 128.467592 75.254843) (xy 128.480279 75.258966) (xy 128.529779 75.294927) (xy 128.529783 75.294932)
-				(xy 128.532899 75.299221) (xy 128.551795 75.355983) (xy 128.595883 78.414736) (xy 128.591481 78.445389)
-				(xy 128.587543 78.458134) (xy 128.552299 78.50815) (xy 128.552287 78.508159) (xy 128.548209 78.511212)
-				(xy 128.490304 78.530951) (xy 123.816106 78.598325) (xy 123.785453 78.593923) (xy 123.772708 78.589985)
-				(xy 123.722692 78.554741) (xy 123.722678 78.554722) (xy 123.719758 78.550821) (xy 123.701361 78.507771)
-				(xy 123.701347 78.507687) (xy 123.7 78.491412) (xy 123.7 74.600001) (xy 127.6 74.600001) (xy 127.6 75.249999)
-				(xy 127.600001 75.25) (xy 127.999998 75.25) (xy 127.999999 75.25) (xy 128 75.249999) (xy 128 74.60449)
-				(xy 128.002 74.598332) (xy 127.991475 74.6) (xy 127.600002 74.6) (xy 127.600001 74.6) (xy 127.6 74.600001)
-				(xy 123.7 74.600001) (xy 123.7 73.91468) (xy 123.704843 73.884094) (xy 123.708965 73.871405) (xy 123.744923 73.821906)
-				(xy 123.745522 73.821471) (xy 123.749063 73.8189) (xy 123.807243 73.8) (xy 127.48532 73.8)
+				(xy 128.5 73.8) (xy 128.529907 73.837384) (xy 128.593754 78.266937) (xy 124 78.333152) (xy 124 73.8)
 			)
 		)
 	)
