@@ -401,12 +401,6 @@
 		(path "/fa672b14-329a-4bb7-a909-5b1dde7a1a04/b298fd55-180c-46c6-865c-45099599188b")
 		(sheetname "/ETH/")
 		(sheetfile "ETH.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "4" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -421,16 +415,6 @@
 			(uuid "be2a3613-532d-4c8f-afd6-64bc6220d844")
 		)
 		(fp_line
-			(start 1.1049 -1.6021)
-			(end 1.1049 -1.3481)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "64e7bd29-d2d0-4ee6-b035-930b87370fd4")
-		)
-		(fp_line
 			(start -1.1049 -1.6021)
 			(end 1.1049 -1.6021)
 			(stroke
@@ -441,27 +425,17 @@
 			(uuid "88884e2b-4ac2-4b1d-b917-45e0c4322ff8")
 		)
 		(fp_line
-			(start 1.16 -1.3481)
+			(start 1.1049 -1.6)
 			(end 1.1049 -1.3481)
 			(stroke
 				(width 0.1524)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e58ce17e-9a1c-42e0-8227-d0062da6ab04")
+			(uuid "64e7bd29-d2d0-4ee6-b035-930b87370fd4")
 		)
 		(fp_line
-			(start 1.16 -1.3481)
-			(end 1.16 1.3481)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7ddd1c13-89ce-4a3b-8e43-f76aa1eea06b")
-		)
-		(fp_line
-			(start -1.1049 -1.3481)
+			(start -1.1049 -1.35)
 			(end -1.1049 -1.6021)
 			(stroke
 				(width 0.1524)
@@ -471,14 +445,24 @@
 			(uuid "017e08d4-b71f-47cc-9b2e-43a2e3ad66aa")
 		)
 		(fp_line
-			(start -1.16 -1.3481)
-			(end -1.1049 -1.3481)
+			(start 1.16 -1.3481)
+			(end 1.11 -1.3481)
 			(stroke
 				(width 0.1524)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4ea2a992-a357-4c62-90f9-d8421210189d")
+			(uuid "7ddd1c13-89ce-4a3b-8e43-f76aa1eea06b")
+		)
+		(fp_line
+			(start 1.16 -1.3481)
+			(end 1.16 1.35)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "e58ce17e-9a1c-42e0-8227-d0062da6ab04")
 		)
 		(fp_line
 			(start 1.16 1.3481)
@@ -491,6 +475,16 @@
 			(uuid "f3ee5221-e7d1-473f-a0eb-ca04a7e51cc5")
 		)
 		(fp_line
+			(start 1.16 1.3481)
+			(end -1.16 1.3481)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4ea2a992-a357-4c62-90f9-d8421210189d")
+		)
+		(fp_line
 			(start 1.1049 1.3481)
 			(end 1.1049 1.3481)
 			(stroke
@@ -501,27 +495,7 @@
 			(uuid "ca6bd63e-5aa8-4146-862a-847d78983a93")
 		)
 		(fp_line
-			(start 1.1049 1.3481)
-			(end -1.1049 1.3481)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4d478f8d-d24f-4293-9eb7-871a9d4a50c3")
-		)
-		(fp_line
-			(start -1.1049 1.3481)
-			(end -1.1049 1.3481)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "829e503f-910b-4fdb-b432-e136920dc0c8")
-		)
-		(fp_line
-			(start -1.16 1.3481)
+			(start -1.16 1.35)
 			(end -1.16 -1.3481)
 			(stroke
 				(width 0.1524)
@@ -529,16 +503,6 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "1e99a6d5-7054-4e8c-b79f-2120d4fca6de")
-		)
-		(fp_line
-			(start -1.16 1.3481)
-			(end -1.1049 1.3481)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9dbe1077-db9d-4b91-b2da-7be9a34f7f5a")
 		)
 		(fp_line
 			(start 0.8509 -1.0541)
