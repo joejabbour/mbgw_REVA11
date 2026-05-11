@@ -612,7 +612,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D5"
-			(at -0.0125 -1.8 180)
+			(at -0.1125 -2.1 180)
 			(layer "F.SilkS")
 			(uuid "807386be-d7f0-4dda-9e83-cc8fc4f2b8ce")
 			(effects
@@ -1005,7 +1005,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0.39 1.2 0)
+			(at 0.39 1.3 0)
 			(layer "F.SilkS")
 			(uuid "1b06b0f6-d0d8-45e7-b29d-fb64b1d93161")
 			(effects
@@ -5011,7 +5011,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R41"
-			(at 0.075 -2 180)
+			(at -0.09 -2.2 180)
 			(layer "F.SilkS")
 			(uuid "49e9ea48-7736-4c00-b5cb-472ef5913048")
 			(effects
@@ -6175,7 +6175,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 -1.17 0)
+			(at 1.01 1.735 0)
 			(layer "F.SilkS")
 			(uuid "55f828e7-94db-4a80-bcdf-fa17e8c20597")
 			(effects
@@ -6758,7 +6758,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.17 0)
+			(at 2.5 -0.1 0)
 			(layer "F.SilkS")
 			(uuid "ea68c677-3384-4d18-9a4f-93d827e21b71")
 			(effects
@@ -8260,7 +8260,7 @@
 		(descr "USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf")
 		(tags "usb micro receptacle")
 		(property "Reference" "J2"
-			(at -6.7 -0.7 0)
+			(at -6.4 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "fc09154c-97d8-4018-97df-850dc100f913")
 			(effects
@@ -9128,7 +9128,7 @@
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J7"
-			(at 2.54 -6.32 0)
+			(at -0.765 -6.66625 0)
 			(layer "F.SilkS")
 			(uuid "018a0192-e3a5-420a-b17c-d9fbb2596c0a")
 			(effects
@@ -10178,7 +10178,7 @@
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J8"
-			(at 2.54 -6.32 0)
+			(at -0.265 -6.76625 0)
 			(layer "F.SilkS")
 			(uuid "dd02f6da-69ce-41a8-848f-8300758b698c")
 			(effects
@@ -10886,7 +10886,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0.31 1.6 180)
+			(at 1.51 1.6 180)
 			(layer "F.SilkS")
 			(uuid "55f76d6e-aab9-4ef0-9d5d-6f30431af386")
 			(effects
@@ -11594,7 +11594,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 1.6725 -1.59 180)
+			(at 2.0725 -0.59 180)
 			(layer "F.SilkS")
 			(uuid "2287c1ff-1fb7-47b6-8c2a-50831e9cc7a2")
 			(effects
@@ -13849,7 +13849,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R42"
-			(at 0 1.91 180)
+			(at -0.1 2.31 180)
 			(layer "F.SilkS")
 			(uuid "1e91a995-adb8-41a2-be35-c77989997c1a")
 			(effects
@@ -16827,7 +16827,7 @@
 		(descr "VQFN, 24 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/product-documents/package-drawings/24L-VQFN%E2%80%934x4x0.9mm-MJ-C04-00143b.pdf)")
 		(tags "VQFN NoLead")
 		(property "Reference" "U3"
-			(at 3.2375 -2.075 0)
+			(at 4.0375 0.825 0)
 			(layer "F.SilkS")
 			(uuid "c99e95bb-fa28-4025-9e1f-19482a445a52")
 			(effects
@@ -17642,7 +17642,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.16 0)
+			(at 0.12 -1.4 0)
 			(layer "F.SilkS")
 			(uuid "c0ca3db4-c9ec-422c-b0ad-4b24f9046182")
 			(effects
@@ -17813,7 +17813,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R9"
-			(at -0.59 -3.3 180)
+			(at -0.69 -1.6 180)
 			(layer "F.SilkS")
 			(uuid "5a96f274-2529-4230-a5ad-3dae2e20541c")
 			(effects
@@ -18548,7 +18548,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R27"
-			(at -3.2 -1.9 90)
+			(at -1.71 -1.2 180)
 			(layer "F.SilkS")
 			(uuid "9fc0cedb-f39c-4448-9b02-34563ea86bd7")
 			(effects
