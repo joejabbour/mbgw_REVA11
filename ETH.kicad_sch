@@ -21,7 +21,7 @@
 					)
 				)
 			)
-			(property "Value" "https://abracon.com/Magnetics/lan/ARJP11A.PDF"
+			(property "Value" "RJ45_Abracon_ARJP11A-MASA-B-A-EMU2"
 				(at 1.27 13.97 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -53,18 +53,7 @@
 					)
 				)
 			)
-			(property "Description" "ARJP11A-MASA-B-A-EMU2"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB PN" "ARJP11A-MASA-B-A-EMU2-ND(digi)"
+			(property "Description" "RJ45 PoE 10/100 Base-TX Jack with Magnetic Module"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1608,24 +1597,6 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 15.24 -12.7 90)
-					(length 2.54)
-					(name "SH"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin no_connect line
 					(at 20.32 5.08 0)
 					(length 0)
@@ -1746,6 +1717,24 @@
 						)
 					)
 					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -12.7 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8580,7 +8569,7 @@
 		(pin "1"
 			(uuid "7b269241-3e41-48df-98f3-bb7655ce204d")
 		)
-		(pin "8"
+		(pin "SH"
 			(uuid "7f1339c0-f913-4073-bb9c-65f85f469c85")
 		)
 		(pin "10"
