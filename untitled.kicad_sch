@@ -12272,6 +12272,17 @@
 				)
 			)
 		)
+		(property "MPN" "CR0402JF0335G"
+			(at 306.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "96f661ec-4aea-4f5d-b240-bf7800937da0")
 		)
@@ -12354,6 +12365,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 372.11 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a6c2e488-3761-458d-8e8f-3a5c02891c94")
 		)
@@ -12426,6 +12448,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 53.34 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 53.34 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -12523,6 +12556,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A105KP5NNNC"
+			(at 368.3 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6a27bedb-2064-4d3d-8170-14d52ba0920f")
 		)
@@ -12606,6 +12650,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 303.53 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3edaf52e-0114-4aba-9c8b-e58278bcb79e")
 		)
@@ -12679,6 +12734,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 262.89 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 262.89 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12775,6 +12841,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C2857621"
+			(at 76.2 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "WTL3M01610"
 			(at 76.2 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -13029,6 +13106,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1581"
+			(at 96.52 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402F104M500NT"
 			(at 96.52 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13444,6 +13532,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF2000TCE"
+			(at 293.37 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "61bca5e2-848a-46d1-bb32-802907bf36af")
 		)
@@ -13604,6 +13703,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1581"
+			(at 130.81 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402F104M500NT"
 			(at 130.81 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13785,6 +13895,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A105KP5NNNC"
+			(at 321.31 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "47392a74-fd42-4aa3-acba-73358e1a6e5b")
 		)
@@ -13955,6 +14076,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402B332K500NT"
+			(at 318.77 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e184b777-6a2e-499c-98d5-1690e2f488d0")
 		)
@@ -14046,6 +14178,17 @@
 				)
 			)
 		)
+		(property "MPN" "MCL2012S1R0MT"
+			(at 309.88 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eb3dbf8d-4a36-412e-a6aa-cd183fb1c87e")
 		)
@@ -14127,6 +14270,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C6186"
+			(at 359.41 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AMS1117-3.3"
 			(at 359.41 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -14232,6 +14386,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL10A106MQ8NNNC"
+			(at 203.2 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "137e7da5-54f7-4e2b-9f28-9609d6be2ab7")
 		)
@@ -14314,6 +14479,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1581"
+			(at 85.09 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402F104M500NT"
 			(at 85.09 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14416,6 +14592,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402F104M500NT"
+			(at 153.67 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7322d8d0-e2d8-4934-bcda-f9c3c7014925")
 		)
@@ -14488,6 +14675,17 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 257.81 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 257.81 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -14579,7 +14777,18 @@
 				)
 			)
 		)
-		(property "JLCPCB PN" " C1691"
+		(property "JLCPCB PN" "C1691"
+			(at 365.76 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A106MQ8NNNC"
 			(at 365.76 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -14682,6 +14891,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402F104M500NT"
+			(at 119.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "642d3dd4-d7fa-4815-9ad7-134fdef06e0d")
 		)
@@ -14762,6 +14982,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C2286"
+			(at 67.31 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "KT-0603R"
 			(at 67.31 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -15019,6 +15250,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402F104M500NT"
+			(at 142.24 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7ff4eb4b-800b-417b-8110-f1d5916f8c2d")
 		)
@@ -15179,6 +15421,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 53.34 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
@@ -15254,6 +15507,17 @@
 			)
 		)
 		(property "JLCPCB PN" "505-MAX17501AATB+-ND(digi)"
+			(at 339.09 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 339.09 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -15694,6 +15958,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402CG100J500NT"
+			(at 83.82 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e20304f4-7ca4-47cd-8159-43cc7b905a5d")
 		)
@@ -15776,6 +16051,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1545"
+			(at 60.96 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG100J500NT"
 			(at 60.96 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15879,6 +16165,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A105KP5NNNC"
+			(at 299.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7349d891-bf91-4e68-bae7-59cfc7175f32")
 		)
@@ -15970,6 +16267,17 @@
 				)
 			)
 		)
+		(property "MPN" "FNR4018S270MT"
+			(at 359.41 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0211da05-ec92-430f-ba3c-7ce76a512126")
 		)
@@ -16052,6 +16360,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1581"
+			(at 76.2 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402F104M500NT"
 			(at 76.2 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -16155,6 +16474,17 @@
 				)
 			)
 		)
+		(property "MPN" "CC0603KRX5R8BB105"
+			(at 351.79 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "054c8c13-9cd2-43ed-a54b-3660a74560fd")
 		)
@@ -16238,6 +16568,17 @@
 		)
 		(property "JLCPCB PN" "C25087"
 			(at 254 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF2000TCE"
+			(at 254 236.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16339,6 +16680,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402F104M500NT"
+			(at 177.8 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "339bad3a-0f8a-43ae-a306-58e8324cbdb0")
 		)
@@ -16419,6 +16771,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25162"
+			(at 74.93 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGJ0361TCE"
 			(at 74.93 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -16665,6 +17028,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 200.66 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "b3ebf575-ec82-4757-9251-d132fd8732dd")
 		)
@@ -16830,6 +17204,17 @@
 			)
 		)
 		(property "JLCPCB PN" " C90235"
+			(at 142.24 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STM32F767ZIT6"
 			(at 142.24 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -17434,6 +17819,17 @@
 				)
 			)
 		)
+		(property "MPN" "KT-0603R"
+			(at 67.31 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe222b58-7a5b-4052-a5ee-d04e2b5dc95b")
 		)
@@ -17684,6 +18080,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 361.95 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3c4e6583-eb4d-4c5b-a47e-b28654df9707")
 		)
@@ -17766,6 +18173,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1581"
+			(at 190.5 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402F104M500NT"
 			(at 190.5 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -17947,6 +18365,17 @@
 				)
 			)
 		)
+		(property "MPN" "MBR0580"
+			(at 274.32 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d7c3abe-f352-4da1-84ac-c803e8ac2c5d")
 		)
@@ -18019,6 +18448,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 53.34 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 53.34 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -18115,6 +18555,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402F104M500NT"
+			(at 166.37 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4da5636a-bd6e-4a78-ae6d-60bb7873d85a")
 		)
@@ -18198,6 +18649,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C13832"
+			(at 295.91 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL31B105KCHNNNE"
 			(at 295.91 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -18379,6 +18841,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 379.73 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "f3e26e46-39b7-4233-825e-c8842820924e")
 		)
@@ -18461,6 +18934,17 @@
 			)
 		)
 		(property "Description" "Jumper, 3-pole, both open"
+			(at 375.92 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 375.92 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -18723,6 +19207,17 @@
 				)
 			)
 		)
+		(property "MPN" "RC-02W300JT"
+			(at 306.07 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6054d7dd-8f8d-417e-801f-c3d27827ab5f")
 		)
@@ -18806,6 +19301,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C6482"
+			(at 279.4 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AT24C256C-SSHL-T"
 			(at 279.4 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -19392,6 +19898,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402F104M500NT"
+			(at 107.95 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe53f56c-dc6f-4111-8a7f-82cad515e9a2")
 		)
@@ -19875,6 +20392,17 @@
 				)
 			)
 		)
+		(property "MPN" "SMD1206P016TF"
+			(at 274.32 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d596f9ca-8ad6-48e2-8e89-0766e86f2f0f")
 		)
@@ -20045,6 +20573,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF2000TCE"
+			(at 254 231.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dfede7a6-014e-442b-8c7e-260df32e6c07")
 		)
@@ -20205,6 +20744,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C1524"
+			(at 331.47 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402B103K500NT"
 			(at 331.47 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -20463,6 +21013,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF2000TCE"
+			(at 254 233.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "00a2470e-aacf-480d-a4af-ecd733c23e4e")
 		)
@@ -20555,6 +21116,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGF2001TCE"
+			(at 299.72 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "621aa367-a6f3-4ec0-a066-b197b9064b5b")
 		)
@@ -20637,6 +21209,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C4109"
+			(at 306.07 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF2001TCE"
 			(at 306.07 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -20894,6 +21477,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0361TCE"
+			(at 74.93 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b2e9a6c7-c2fd-4aa3-9f4f-ab5ab894aaf9")
 		)
@@ -20977,6 +21571,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25531"
+			(at 361.95 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGJ0103TCE"
 			(at 361.95 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -21226,6 +21831,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 372.11 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2596f051-c5f3-4b89-879d-02cc1383f4c5")
 		)
@@ -21298,6 +21914,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 53.34 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
 			(at 53.34 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -21385,6 +22012,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C14445"
+			(at 349.25 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05A105KP5NNNC"
 			(at 349.25 90.17 0)
 			(hide yes)
 			(show_name no)

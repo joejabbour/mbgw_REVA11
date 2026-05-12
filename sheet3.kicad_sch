@@ -2600,6 +2600,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 49.53 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e54317da-4190-4b47-94dc-0283a8e95f8b")
 		)
@@ -2683,6 +2694,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C668204"
+			(at 80.01 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MAX3485ESA(UMW)"
 			(at 80.01 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2870,6 +2892,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 163.83 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "34ff2a70-de7c-446e-9443-34b1b712247f")
 		)
@@ -2953,6 +2986,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25079"
+			(at 137.16 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1200TCE"
 			(at 137.16 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3056,6 +3100,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 96.52 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d221a5b7-a6d7-4a9b-8fb4-221ea25495b8")
 		)
@@ -3139,6 +3194,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25531"
+			(at 57.15 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGJ0103TCE"
 			(at 57.15 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -3242,6 +3308,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 49.53 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "085e6bcb-4e29-432c-b15e-f767005f4511")
 		)
@@ -3325,6 +3402,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25531"
+			(at 96.52 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGJ0103TCE"
 			(at 96.52 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -3419,6 +3507,17 @@
 		)
 		(property "JLCPCB PN" "C293966"
 			(at 121.92 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SM712"
+			(at 121.92 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3524,6 +3623,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 96.52 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a56f0370-1190-47b6-a280-a9bcae7e170c")
 		)
@@ -3617,6 +3727,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 57.15 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3be86c56-4e02-4a91-8877-6af5586a50a1")
 		)
@@ -3700,6 +3821,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C668204"
+			(at 80.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MAX3485ESA(UMW)"
 			(at 80.01 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -3965,6 +4097,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 163.83 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6cef76c7-d6ad-41f1-8e37-2f848b452ead")
 		)
@@ -4136,6 +4279,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 41.91 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9f41de3d-730c-407c-925d-46043388d1c8")
 		)
@@ -4219,6 +4373,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25079"
+			(at 137.16 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1200TCE"
 			(at 137.16 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -4322,6 +4487,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402WGJ0103TCE"
+			(at 96.52 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b4a9f8f1-2130-422c-8eb9-4a4f2a7171fe")
 		)
@@ -4406,6 +4582,17 @@
 		)
 		(property "JLCPCB PN" "C293966"
 			(at 121.92 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SM712"
+			(at 121.92 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4579,6 +4766,17 @@
 			)
 		)
 		(property "JLCPCB PN" "C25531"
+			(at 41.91 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGJ0103TCE"
 			(at 41.91 87.63 0)
 			(hide yes)
 			(show_name no)
