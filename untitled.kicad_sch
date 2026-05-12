@@ -8330,12 +8330,6 @@
 		(uuid "f52f722f-e886-4d21-8119-81b8d7df0106")
 	)
 	(junction
-		(at 361.95 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe198816-bb24-48b5-9149-76f356ff3e01")
-	)
-	(junction
 		(at 76.2 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8746,6 +8740,16 @@
 			(type default)
 		)
 		(uuid "027219a4-5148-4fa1-b3e3-9bcd1623addd")
+	)
+	(wire
+		(pts
+			(xy 359.41 111.76) (xy 369.57 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04cf5df1-36ec-4d08-9b2f-5387b791baa3")
 	)
 	(wire
 		(pts
@@ -9589,16 +9593,6 @@
 	)
 	(wire
 		(pts
-			(xy 359.41 111.76) (xy 361.95 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "838bb2d3-002d-476e-974a-4e5922074b43")
-	)
-	(wire
-		(pts
 			(xy 368.3 85.09) (xy 368.3 86.36)
 		)
 		(stroke
@@ -10396,16 +10390,6 @@
 			(type default)
 		)
 		(uuid "de30a7df-5ab8-4512-9a0d-f4e7a7423301")
-	)
-	(wire
-		(pts
-			(xy 361.95 111.76) (xy 369.57 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e065781d-af90-4a74-ae31-8dd4f66d00ea")
 	)
 	(wire
 		(pts
@@ -17178,84 +17162,6 @@
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 361.95 111.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e4f407c-0ae9-46b7-a037-66c9a905a04f")
-		(property "Reference" "#FLG011"
-			(at 361.95 109.855 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 361.95 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 361.95 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 361.95 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 361.95 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f3a843f0-d44c-44fc-a6c6-a166f30715cd")
-		)
-		(instances
-			(project "mainbrd3"
-				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
-					(reference "#FLG011")
 					(unit 1)
 				)
 			)
