@@ -21634,7 +21634,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "47uf"
 			(at 298.45 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21645,7 +21645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 295.6052 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -21678,7 +21678,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM21BR61H106KE43L"
+		(property "MPN" " GRM32ER61C476KE15L"
 			(at 294.64 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -21689,7 +21689,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C440198"
+		(property "LCSC" " C77101"
 			(at 294.64 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -21818,9 +21818,5 @@
 				)
 			)
 		)
-	)
-	(group ""
-		(uuid "6495d3ef-e54a-4155-9a3b-d6ef6fbf4e17")
-		(members "535b15c4-0c5b-4b06-bde4-9105bbb0638f")
 	)
 )
