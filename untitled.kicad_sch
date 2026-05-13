@@ -8629,6 +8629,12 @@
 		(uuid "b8b3f9c8-e3be-438c-a9ec-0bb949c790af")
 	)
 	(junction
+		(at 288.29 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc0049f0-87f4-416b-accd-85f6a92b9818")
+	)
+	(junction
 		(at 279.4 241.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9394,6 +9400,16 @@
 	)
 	(wire
 		(pts
+			(xy 288.29 111.76) (xy 294.64 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2539e8f7-ecb9-4cff-a605-6f6dcee08911")
+	)
+	(wire
+		(pts
 			(xy 71.12 55.88) (xy 127 55.88)
 		)
 		(stroke
@@ -9684,7 +9700,7 @@
 	)
 	(wire
 		(pts
-			(xy 283.21 111.76) (xy 294.64 111.76)
+			(xy 283.21 111.76) (xy 288.29 111.76)
 		)
 		(stroke
 			(width 0)
@@ -15797,7 +15813,7 @@
 				)
 			)
 		)
-		(property "Value" "+12V"
+		(property "Value" "+12VIN"
 			(at 293.37 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19686,7 +19702,7 @@
 				)
 			)
 		)
-		(property "Value" "+12V"
+		(property "Value" "+12VIN"
 			(at 283.21 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21501,6 +21517,84 @@
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
 					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 288.29 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "faaf8eda-53c8-41be-926b-7f1fbaafb56a")
+		(property "Reference" "#PWR012"
+			(at 288.29 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 288.29 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 288.29 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 288.29 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d7d5bdf2-32c7-4b7f-a9c7-93aa340c866c")
+		)
+		(instances
+			(project "mainbrd3"
+				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/5a91110a-5d39-48c9-af7e-bae13d852cb2"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
