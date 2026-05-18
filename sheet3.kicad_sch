@@ -6625,7 +6625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "joefplib:P2R-05P"
 			(at 207.01 154.94 0)
 			(hide yes)
 			(show_name no)
