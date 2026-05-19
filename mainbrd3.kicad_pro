@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -141,7 +141,7 @@
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.15,
         "min_text_height": 1.0,
-        "min_text_thickness": 0.15,
+        "min_text_thickness": 0.153,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.15,
         "min_via_annular_width": 0.15,
@@ -654,12 +654,6 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
-          "show": true
         }
       ],
       "filter_string": "",
@@ -710,7 +704,7 @@
         "uuid": "89e0f049-91ab-4c37-b514-d5ee0e775d39"
       }
     ],
-    "used_designators": "F2,C20,C35-36,D1,#PWR12,#PWR19,#PWR25,#PWR55,#PWR57,#PWR71,U2,Q1,J6,J11,R43-45",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
