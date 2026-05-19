@@ -3302,6 +3302,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 167.64) (xy 153.67 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e1e9260-719d-47c3-a132-c3b45edc4d9d")
+	)
+	(wire
+		(pts
 			(xy 67.31 102.87) (xy 69.85 102.87)
 		)
 		(stroke
@@ -3592,6 +3602,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 168.91) (xy 157.48 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa3c8394-6b7f-43aa-8736-91ccb98c0846")
+	)
+	(wire
+		(pts
 			(xy 153.67 173.99) (xy 157.48 173.99)
 		)
 		(stroke
@@ -3852,7 +3872,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 184.15) (xy 153.67 173.99)
+			(xy 153.67 185.42) (xy 153.67 173.99)
 		)
 		(stroke
 			(width 0)
@@ -3889,6 +3909,16 @@
 			(type default)
 		)
 		(uuid "e30f84d1-57ba-4c5b-b23e-b905127c05ee")
+	)
+	(wire
+		(pts
+			(xy 153.67 151.13) (xy 153.67 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4e43852-e1b3-4f42-b256-9ddefbeca7c1")
 	)
 	(wire
 		(pts
@@ -4124,20 +4154,19 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:GND")
-		(at 153.67 184.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+	(global_label "Relay_signal"
+		(shape input)
+		(at 153.67 185.42 180)
 		(fields_autoplaced yes)
-		(uuid "002823cd-e7aa-4c2b-80d1-008768c134de")
-		(property "Reference" "#PWR071"
-			(at 153.67 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea84c54e-1b37-4178-b62d-7c8a6143f5d5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.8317 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4145,60 +4174,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Value" "GND"
-			(at 153.67 189.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.67 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.67 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bbd9482f-603e-4606-addb-7aa7c0df5570")
-		)
-		(instances
-			(project "mainbrd3"
-				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/afded586-e9ca-4800-b965-8fdeba2554d0"
-					(reference "#PWR071")
-					(unit 1)
-				)
+				(justify right)
 			)
 		)
 	)
@@ -4338,7 +4314,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.us.liteon.com/downloads/LTV-817-827-847.PDF"
+		(property "Datasheet" ""
 			(at 156.21 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -4360,7 +4336,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTV-817S-TA1-C"
+		(property "MPN" "LTV-817S-TA1-B"
 			(at 165.1 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -4780,6 +4756,107 @@
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/afded586-e9ca-4800-b965-8fdeba2554d0"
 					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 153.67 163.83 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "319eb7aa-836c-48c6-bf84-b4a6ac78bf33")
+		(property "Reference" "R45"
+			(at 152.4 168.91 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "330"
+			(at 154.94 158.75 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 155.448 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=TwJXBFACE1QMBQcCRVBdAQZQEQBZVlVURgBZVVxXE1gxVlNRTlNfXldTQVhZVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"
+			(at 153.67 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+			(at 153.67 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB PN" "C105881"
+			(at 153.67 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 153.67 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b841d6b7-e583-4331-a3e1-4da62d3179ab")
+		)
+		(pin "1"
+			(uuid "0b2f1572-032f-4b90-a30e-8b73094100b4")
+		)
+		(instances
+			(project "mainbrd3"
+				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/afded586-e9ca-4800-b965-8fdeba2554d0"
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -6879,6 +6956,84 @@
 			(project "mainbrd3"
 				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/afded586-e9ca-4800-b965-8fdeba2554d0"
 					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 153.67 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c114bd32-8c09-4365-b656-82332422360e")
+		(property "Reference" "#PWR071"
+			(at 153.67 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 153.67 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 153.67 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "da2b2965-740d-470f-b68f-5931de924156")
+		)
+		(instances
+			(project "mainbrd3"
+				(path "/89e0f049-91ab-4c37-b514-d5ee0e775d39/afded586-e9ca-4800-b965-8fdeba2554d0"
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
