@@ -17290,6 +17290,17 @@
 				(xyz -90 -0 -180)
 			)
 		)
+		(model "${KIPRJMOD}/P2R_05P_STEP (1)/P2R_05P.step"
+			(offset
+				(xyz 0 21.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 180)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
