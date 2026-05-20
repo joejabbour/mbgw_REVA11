@@ -1519,13 +1519,13 @@
 	(footprint "Package_QFP:LQFP-144_20x20mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "18f650c5-f696-489a-9f88-f34e805725d3")
-		(at 162.7 91.7 90)
+		(at 162.7 91.69 90)
 		(descr "LQFP, 144 Pin (JEDEC MS-026 variation BFB, 1.40mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=425)")
 		(tags "LQFP QFP Microchip_144-Lead-Plastic-Low-Profile-Quad-Flatpack-(PL) Microsemi_TQ144")
 		(property "Reference" "U1"
 			(at 4.8 -13.4 180)
 			(layer "F.SilkS")
-			(uuid "0207f0b9-ffc3-479c-9312-7ddd7304e8cc")
+			(uuid "79c5177e-d35e-4db0-8715-10ea5a9510b2")
 			(effects
 				(font
 					(size 1 1)
@@ -1537,7 +1537,7 @@
 			(at 0 12.35 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37f8a29e-98f5-464a-9576-6edff26f6642")
+			(uuid "57c6deac-564c-4242-a294-dfa59c3743c8")
 			(effects
 				(font
 					(size 1 1)
@@ -1549,7 +1549,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0dc01d8-8b0b-4ae3-99b2-4b82b81a92c1")
+			(uuid "5c18bf00-2b5f-48d9-b472-4777368c5a50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1560,7 +1560,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0fbfa8aa-6d5e-408f-aa0d-d2b44940bcd2")
+			(uuid "a6231f56-bb1b-41cf-8a2b-9d50328f9845")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17128,7 +17128,7 @@
 		(at 132.750001 106.700544 90)
 		(descr "Omron 5-Pin Relay PCB Socket")
 		(property "Reference" "J6"
-			(at -6 -29.5 90)
+			(at 9.300544 -15.950001 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "16beb5b5-3403-48a1-9e56-2b4e17192365")
@@ -17140,7 +17140,7 @@
 			)
 		)
 		(property "Value" "p2r-05p"
-			(at 3.5 -28.5 90)
+			(at 10.400544 -20.650001 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "9568c4a9-060b-4209-b173-6546fb7dab78")
@@ -17212,7 +17212,7 @@
 			(uuid "0b1cd1f0-fc40-4a6e-a877-e8ede652f2b4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.5 -31 90)
+			(at 12.900544 -18.650001 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "9ae482dc-1364-4c36-9626-44069bc6ecd9")
@@ -37209,6 +37209,46 @@
 		(layer "F.Cu")
 		(net "Net-(R45-Pad1)")
 		(uuid "eb4e71e6-9b19-4c30-a9f8-943d83b265b9")
+	)
+	(segment
+		(start 146.44 93.96)
+		(end 148.7 91.7)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "Relay_signal")
+		(uuid "3ac6518a-7867-4fd1-967d-a51fcf442889")
+	)
+	(segment
+		(start 145.2 93.96)
+		(end 146.44 93.96)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "Relay_signal")
+		(uuid "d0b6769d-8e42-425a-9d51-a1452cf72284")
+	)
+	(segment
+		(start 148.7 87)
+		(end 150.26 85.44)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "Relay_signal")
+		(uuid "de7a52aa-167d-4748-8190-4888a13aed72")
+	)
+	(segment
+		(start 150.26 85.44)
+		(end 152.0375 85.44)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "Relay_signal")
+		(uuid "eb5d604c-fead-417f-933d-a962a5d8de81")
+	)
+	(segment
+		(start 148.7 91.7)
+		(end 148.7 87)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "Relay_signal")
+		(uuid "ee6efa15-16a5-4262-bcdd-ef35120dc540")
 	)
 	(zone
 		(net "Net-(U3-XTAL2)")
