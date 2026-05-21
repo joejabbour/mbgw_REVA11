@@ -8924,7 +8924,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 45.72) (xy 384.81 45.72)
+			(xy 382.27 45.72) (xy 386.08 45.72)
 		)
 		(stroke
 			(width 0)
@@ -20930,7 +20930,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 384.81 45.72 0)
+		(at 386.08 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20941,7 +20941,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2bc5e8e-1e58-4741-9c8b-056d85090e85")
 		(property "Reference" "#PWR075"
-			(at 384.81 52.07 0)
+			(at 386.08 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20952,7 +20952,7 @@
 			)
 		)
 		(property "Value" "Shield_Island"
-			(at 384.81 50.8 0)
+			(at 386.08 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20962,7 +20962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 384.81 45.72 0)
+			(at 386.08 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20973,7 +20973,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 384.81 45.72 0)
+			(at 386.08 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20984,7 +20984,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 384.81 45.72 0)
+			(at 386.08 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
