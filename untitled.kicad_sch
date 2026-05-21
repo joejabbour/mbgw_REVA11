@@ -20582,7 +20582,7 @@
 				)
 			)
 		)
-		(property "Value" "Earth"
+		(property "Value" "Shield_Island"
 			(at 384.81 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
