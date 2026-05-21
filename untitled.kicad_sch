@@ -713,7 +713,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2309211435_DOWO-SM712_C293966.pdf"
 				(at 3.81 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -724,7 +724,29 @@
 					)
 				)
 			)
-			(property "Description" "USB Micro Type B connector"
+			(property "Description" "629105150521"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB PN" "732-5960-2-ND(digi) "
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1032,7 +1054,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18442,7 +18464,7 @@
 		(pin "1"
 			(uuid "827dd3d9-1fdf-4d2f-9d3f-bb6203357aa8")
 		)
-		(pin "6"
+		(pin "SH"
 			(uuid "d338ad5a-c8e2-498c-abfe-b99191f461e5")
 		)
 		(pin "2"

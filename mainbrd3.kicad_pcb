@@ -13107,7 +13107,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q1"
-			(at 0 -2.4 0)
+			(at 2.0975 -1.52 0)
 			(layer "F.SilkS")
 			(uuid "ffc3f2be-8e22-4201-ab84-1d8f923ceac1")
 			(effects
@@ -15740,7 +15740,7 @@
 		(uuid "a2bd7f09-7e64-4b16-8e7f-06574fc1c75d")
 		(at 125.6 76.93 -90)
 		(property "Reference" "PS1"
-			(at -2.385 -5.045 90)
+			(at 3.57 -5.9 180)
 			(layer "F.SilkS")
 			(uuid "707a3f09-bd08-448d-8e15-d36bc1e3bdeb")
 			(effects
@@ -17482,7 +17482,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R43"
-			(at 0.09 2.5 0)
+			(at -0.365 3.83 0)
 			(layer "F.SilkS")
 			(uuid "eb3bf25c-0363-480b-8fb1-fa7fe3d7b9c6")
 			(effects
@@ -21127,7 +21127,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R44"
-			(at 0 -1.17 90)
+			(at -5.04 0.135 180)
 			(layer "F.SilkS")
 			(uuid "26650514-62f0-4849-9af5-9fd5e0173fc7")
 			(effects
